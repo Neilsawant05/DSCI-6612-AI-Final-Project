@@ -66,7 +66,8 @@ As CNNs grow deeper, vanishing gradient tend to occur which negatively impact ne
 
  
 
-Deliverables 
+Deliverables:
+
 A readme file.  
 IPYNB Code file.  
 Evaluation methodology 
