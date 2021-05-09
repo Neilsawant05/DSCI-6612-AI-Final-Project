@@ -69,7 +69,7 @@ As CNNs grow deeper, vanishing gradient tend to occur which negatively impact ne
 Deliverables:
 
 A readme file.  
-IPYNB Code file.  
+PY Code file.  
 Evaluation methodology 
 Data Normalization and Scaling  
 ANNs Training & Gradient Descent Algorithm  
